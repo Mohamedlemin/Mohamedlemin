@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedlemin)](https://github.com/anuraghazra/github-readme-stats)
 
-(https://www.apollotechnical.com/wp-content/uploads/2020/08/software-engineer-interview-questions.jpg)
+![I am GitHub Readme Generator's creator]((https://www.apollotechnical.com/wp-content/uploads/2020/08/software-engineer-interview-questions.jpg))
 
 
 <h3 align="left">Connect with me:</h3>
