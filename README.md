@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohamed Lemin El Bechir</h1>
 ![I am software engineer ](https://cdn.dribbble.com/users/1647667/screenshots/9849363/media/01890923f178ea5693c3816aa0bc65e2.jpg?compress=1&resize=800x600)
+
+<h1 align="center">Hi 👋, I'm Mohamed Lemin El Bechir</h1>
+
 <h3 align="center">A Master's student in software engineering , from Mauritania</h3>
 
 <h3 align="left">Github stats:</h3>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedlemin)](https://github.com/anuraghazra/github-readme-stats)
 
 
