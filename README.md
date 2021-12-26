@@ -1,4 +1,4 @@
-![I am software engineer ](https://cdn.dribbble.com/users/1647667/screenshots/9849363/media/01890923f178ea5693c3816aa0bc65e2.jpg?compress=1&resize=800x600)
+![I am software engineer ](https://cdn.dribbble.com/users/1647667/screenshots/9849363/media/01890923f178ea5693c3816aa0bc65e2.jpg?compress=1&resize=200x300)
 
 <h1 align="center">Hi 👋, I'm Mohamed Lemin El Bechir</h1>
 
