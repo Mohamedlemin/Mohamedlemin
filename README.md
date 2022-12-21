@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Lemin El Bechir</h1>
 
 <h2 align="center">A Master's student in software engineering , from Mauritania</h3>
+<h2 align="center"> <a href="https://m-bechir.me" target="_blank">Portfolio</a> </2>
 
-<h2 align="center">  <a herf="https://m-bechir.me"> Portfolio </a> </2>
 
 <h2 align="left">Github stats:</h2>
 
