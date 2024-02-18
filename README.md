@@ -25,7 +25,7 @@
 <h3 align="left"> <a href="https://www.m-lemine.tech/" target="_blank">Portfolio</a> </h3>
 ###
 
-<h3 align="left">🛠Core Technologie</h3>
+<h3 align="left">🛠 Core technologies</h3>
 
 ###
 
