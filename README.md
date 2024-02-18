@@ -25,7 +25,7 @@
 <h3 align="left"> <a href="https://m-bechir.me" target="_blank">Portfolio</a> 👌</h3>
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠Core Technologie</h3>
 
 ###
 
@@ -40,7 +40,6 @@
   <img src="https://ih1.redbubble.net/image.3917587423.0371/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>   <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/  <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></div>
 
 ###
