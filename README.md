@@ -8,7 +8,7 @@
 
 ###
 <div align="center">
-  <img src="https://www.m-lemine.tech/static/media/medleminLogo.95fc476a2e50f9dc189b.png" height="150" alt=" logo"  />
+  <img src="https://master.d18ynf284awhfo.amplifyapp.com/static/media/medleminLogo.95fc476a2e50f9dc189b.png" height="150" alt=" logo"  />
 </div>
 
 ###
